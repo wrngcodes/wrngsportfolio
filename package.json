@@ -1,0 +1,14 @@
+{
+    "name": "wrngsportfolio",
+    "version": "1.0.0",
+    "description": "My portfolio site built with Node.js and Express",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "Abhis",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.21.2"
+    }
+}
